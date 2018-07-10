@@ -1,0 +1,24 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  resize: none;
+}
+
+#myform {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#english {
+  height: 16px;
+  width: 35px;
+}
+
+iframe{
+  width: 100%;
+  height: 100%;
+}

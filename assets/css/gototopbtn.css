@@ -1,0 +1,20 @@
+/* Styles for my button */
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 15vh;
+  z-index: 99;
+  font-size: 11px;
+  border: none;
+  outline: none;
+  background-color: #f4511e;
+  color: white;
+  cursor: pointer;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}

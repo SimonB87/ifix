@@ -1,0 +1,191 @@
+.article-clean {
+  color:#56585b;
+  background-color:#fff2e8;
+  font-family:'Lora', serif;
+  font-size:14px;
+}
+
+.article-clean .intro {
+  font-size:16px;
+  margin:0 auto 30px;
+}
+
+.article-clean .intro h1 {
+  font-size:32px;
+  margin-bottom:15px;
+  padding-top:20px;
+  line-height:1.5;
+  color:#f4511e;
+  margin-top:20px;
+}
+
+.article-clean .intro p {
+  color:#929292;
+  font-size:12px;
+}
+
+.article-clean .intro p .by {
+  font-style:italic;
+}
+
+.article-clean .intro p .date {
+  text-transform:uppercase;
+  padding:4px 0 4px 10px;
+  margin-left:10px;
+  border-left:1px solid #ddd;
+}
+
+.article-clean .intro p a {
+  color:#333;
+  text-transform:uppercase;
+  padding-left:3px;
+}
+
+.article-clean .intro img {
+  margin-top:20px;
+}
+
+.article-clean .text p {
+  margin-bottom:20px;
+  line-height:1.45;
+}
+
+@media (min-width:768px) {
+  .article-clean .text p {
+    font-size:16px;
+  }
+}
+
+.article-clean .text h2 {
+  margin-top:28px;
+  margin-bottom:20px;
+  line-height:1.45;
+  font-size:16px;
+  font-weight:bold;
+  color:#333;
+}
+
+@media (min-width:768px) {
+  .article-clean .text h2 {
+    font-size:20px;
+  }
+}
+
+.article-clean .text figure {
+  text-align:center;
+  margin-top:30px;
+  margin-bottom:20px;
+}
+
+.article-clean .text figure img {
+  margin-bottom:12px;
+  max-width:100%;
+}
+
+.text-center.quote {
+  font-style:italic;
+  color:black;
+  font-size:20px;
+}
+
+.listprice {
+  text-align:center;
+  font-size:30px;
+  color:rgb(244,81,30);
+}
+
+.mainlogo {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.infobutton {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.listpriceshare {
+  font-size:25px;
+}
+
+.charityfee {
+  background:linear-gradient(120deg, #fff, #f4511e);
+}
+
+.text-center.noteprojects {
+  margin-top:40px;
+}
+
+.orangeprice {
+  color:rgb(244,81,30);
+}
+
+.pricedetails {
+  height:170px;
+}
+
+.contacticon {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.contactinfo {
+  display:block;
+  text-align:center;
+}
+
+.contactdescription {
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.contactbutton {
+  display:block;
+  margin-left:auto;
+}
+
+.inputlength {
+  width:100%;
+}
+
+.peoplereferences {
+  margin:80px 0 80px 0px;
+}
+
+@media (min-width: 200px) and (max-width: 576px) {
+  .testimonials-clean {
+    height:1600px;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 990px) {
+  .testimonials-clean {
+    height:1000px;
+  }
+}
+
+@media (min-width: 992px) {
+  .testimonials-clean {
+    height:700px;
+  }
+}
+
+label {
+  margin-top:10px;
+}
+
+.video {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+@media (max-width: 400px) {
+  .video {
+    width:320px;
+    height:180px;
+  }
+}

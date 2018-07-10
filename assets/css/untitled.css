@@ -1,0 +1,32 @@
+.contact {
+  margin-top:40px;
+  margin-bottom:30px;
+  text-align:center;
+  /*margin-left:auto;*/
+  /*margin-right:auto;*/
+}
+
+.articleheading {
+  color:#f4511e;
+  font-weight:800;
+}
+
+.eye {
+  width:350px;
+  border-radius:50%;
+}
+
+.img-fluid.eyedoctors {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+
+.eyedoctor {
+  width:100%;
+}
+
+.col-sm-6.col-lg-4.item.animate1 {
+}
+
